@@ -4,7 +4,16 @@ public class A {
 	int A1;
 	float A2;
 	String A3;
+	String Aprinc4;
 	
+	public String getAprinc4() {
+		return Aprinc4;
+	}
+
+	public void setAprinc4(String aprinc4) {
+		Aprinc4 = aprinc4;
+	}
+
 	public static float soma(int a, float b){
 		return (a+b);
 	}
