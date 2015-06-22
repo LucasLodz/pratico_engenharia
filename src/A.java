@@ -4,14 +4,27 @@ public class A {
 	int A1;
 	float A2;
 	String A3;
+<<<<<<< HEAD
 	String Aprinc4;
+=======
+	String Aramo4;
+>>>>>>> refs/remotes/origin/Ramo
 	
+<<<<<<< HEAD
 	public String getAprinc4() {
 		return Aprinc4;
 	}
 
 	public void setAprinc4(String aprinc4) {
 		Aprinc4 = aprinc4;
+=======
+	public String getAramo4() {
+		return Aramo4;
+	}
+
+	public void setAramo4(String aramo4) {
+		Aramo4 = aramo4;
+>>>>>>> refs/remotes/origin/Ramo
 	}
 
 	public static float soma(int a, float b){
